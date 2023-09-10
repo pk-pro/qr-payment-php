@@ -9,7 +9,7 @@
 [Composer](http://getcomposer.org):
 
 ```
-$ composer require kilylabs/qr-payment-php
+$ composer require pk-pro/qr-payment-php
 ```
 
 Использование
