@@ -1,5 +1,5 @@
 {
-  "name":         "kilylabs/qr-payment-php",
+  "name":         "pk-pro/qr-payment-php",
   "description":  "Генерация QR-кодов для оплаты на базе ГОСТ Р 56042-2014 для PHP",
   "keywords":     [
     "qr",
